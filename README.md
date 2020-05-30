@@ -1,2 +1,2 @@
 # hello-world
-Mein erstes Programm in GitHub
+Ich bin Lehrerin an einer SI-Schule in NRW. Meine Unterrichtsfächer: Mathematik, Physik und Informatik.
